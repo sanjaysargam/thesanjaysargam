@@ -8,18 +8,20 @@ export const DATA = {
   location: "Mumbai, India",
   locationLink: "https://www.google.com/maps/place/Mumbai,+India",
   description:
-    "Mobile App Developer with a passion for building innovative mobile applications and contributing to open source projects.",
+    `Mobile Engineer`,
   summary:
-    "I'm a passionate Mobile App Developer with expertise in Android, React Native, and Flutter. Currently, I'm working at Accenture as a Mobile App Developer improving app performance and implementing new features. I've previously worked at Glimz and Rapydlaunch as a React Native Developer, where I built Glimz and ScrollShop apps from scratch. As a GSoC Mentee in 2024 and Mentor in 2025-2026 at AnkiDroid, I've contributed to various open-source projects including AnkiDroid, RocketChat, and JitsiMeet.",
+    `Mobile App Developer skilled in Android and React Native.
+Currently working at Accenture, where I improve app performance and build new features.
+Previously worked at Glimz and Rapydlaunch, building mobile apps from scratch.
+Google Summer of Code 2024 Mentee and 2025–26 Mentor at AnkiDroid.
+Active open-source contributor (AnkiDroid, RocketChat, JitsiMeet).
+I focus on building scalable apps, improving user experience, and writing clean, maintainable code.`,
   avatarUrl: "https://github.com/SanjaySargam.png",
   skills: [
     "Java",
     "Kotlin",
     "C",
-    "Dart",
-    "PHP",
     "Android (Native)",
-    "Flutter",
     "React Native",
     "HTML5",
     "CSS3",
@@ -93,7 +95,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Mobile App Developer",
-      logoUrl: "/accenture.png",
+      logoUrl: "https://imgs.search.brave.com/I3Vxkxpf3DXBnGSyt3tS0Bls3021C_bdVWG9icGRF4Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZFQ5eFl4dm0w/L3cvODAwL2gvODAw/L3RoZW1lL2Rhcmsv/aWNvbi5qcGVnP2M9/MWJ4aWQ2NE11cDdh/Y3pld1NBWU1YJnQ9/MTc3NTU5NDk2NDM4/MA",
       start: "Aug 2025",
       end: "Present",
       description:
@@ -101,23 +103,23 @@ export const DATA = {
     },
     {
       company: "Glimz",
-      href: "https://glimz.com/",
+      href: "https://glimznow.com/",
       badges: [],
       location: "Remote",
       title: "React Native Developer",
-      logoUrl: "/glimz.png",
+      logoUrl: "https://play-lh.googleusercontent.com/ZYLrjlFJf56odVK2hQud1uY25Qpp7rxdzOT2kSyovW6XODqbopDvsRxkMDyqi7FBia9YA5mCeW7osV7vpDXqIg=w240-h480-rw",
       start: "Jan 2025",
       end: "Aug 2025",
       description:
         "Built Glimz and ScrollShop apps from scratch, implemented Instagram-like reels features, and built dedicated video player components for mobile applications.",
     },
     {
-      company: "Rapydlaunch",
-      href: "https://rapydlaunch.com/",
+      company: "Kalp Intelligence",
+      href: "https://kalpintelligence.com/",
       badges: [],
       location: "Remote",
       title: "Mobile App Developer",
-      logoUrl: "/rapydlaunch.png",
+      logoUrl: "https://play-lh.googleusercontent.com/h6tUG0ErQbbtlWwVorl8PVoOcB4tBxKLEV4WCOEGIf9KdQ2iccB5Ami5ECjLlH9fOM0=s94-rw",
       start: "June 2023",
       end: "Dec 2024",
       description:
@@ -129,7 +131,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Mobile App Developer",
-      logoUrl: "/apnakonnect.png",
+      logoUrl: "https://play-lh.googleusercontent.com/ABa6K-2pDbgi2Uv8iShn8_fjNkZlib-eyl7DqAXWhtIHOEV2X19VBR5f1Xi1SjnVNVM=s48-rw",
       start: "2022",
       end: "2023",
       description:
@@ -137,11 +139,11 @@ export const DATA = {
     },
     {
       company: "AnkiDroid",
-      href: "https://ankidroid.org/",
+      href: "https://play.google.com/store/apps/details?id=com.ichi2.anki",
       badges: [],
       location: "Remote",
       title: "GSoC Mentee & Mentor",
-      logoUrl: "/ankidroid.png",
+      logoUrl: "https://play-lh.googleusercontent.com/4aLlAwUKGg5Keo8zz-pPI1QS9KnjSsa3vKX2NINqq5Fv1jfPK3bl6ghLaZ371OcH9A=w240-h480-rw",
       start: "2024",
       end: "Present",
       description:
@@ -153,7 +155,7 @@ export const DATA = {
       school: "Mumbai University",
       href: "https://mu.ac.in/",
       degree: "Computer Engineering",
-      logoUrl: "/mumbai-university.png",
+      logoUrl: "https://imgs.search.brave.com/r0Et36IOgnx6ZYj1mRJBZ5RWATV_ju7UDENI7l6dJgg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTFmOTEwMDI4/ODg4OWUxOGM3YjBh/MzVhMTQ1YzQ5ZTll/ZDkxZmViMDA3ODEz/YjVlNDg3NTY1YjVi/YmQyMWI3OS9tdS5h/Yy5pbi8",
       start: "2021",
       end: "2025",
     },
