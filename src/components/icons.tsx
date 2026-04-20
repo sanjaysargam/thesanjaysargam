@@ -5,6 +5,26 @@ export type IconProps = React.HTMLAttributes<SVGElement>;
 export const Icons = {
   globe: (props: IconProps) => <GlobeIcon {...props} />,
   email: (props: IconProps) => <MailIcon {...props} />,
+  playstore: (props: IconProps) => (
+    <svg viewBox="0 0 512 512" {...props}>
+      <title>Google Play Store</title>
+      <path
+        fill="currentColor"
+        d="M325.3 234.3L104.6 13.6C96.5 5.5 84.3 0 72 0v512c12.3 0 24.5-5.5 32.6-13.6l220.7-220.7c12.5-12.5 12.5-32.8 0-45.4zM364.6 273.7l73.3-42.3c18.8-10.9 18.8-38.1 0-49l-73.3-42.3-83.3 83.3 83.3 83.6zM256 256L76.6 435.4c6.5 4.6 15.2 5.2 22.5 1.1l206.6-119.3L256 256zM256 256L305.7 194.8 99.1 75.5c-7.3-4.2-16-3.5-22.5 1.1L256 256z"
+      />
+    </svg>
+  ),
+
+  // ✅ NEW: App Store Icon (Apple)
+  appstore: (props: IconProps) => (
+    <svg viewBox="0 0 384 512" {...props}>
+      <title>Apple App Store</title>
+      <path
+        fill="currentColor"
+        d="M318.7 268.3c-.2-36.7 30-54.3 31.3-55.1-17.1-24.9-43.7-28.3-53.1-28.7-22.6-2.3-44.1 13.3-55.6 13.3-11.6 0-29.5-13-48.5-12.7-25 .4-48.1 14.5-60.9 36.9-26 45-6.6 111.6 18.6 148 12.3 17.8 27 37.8 46.3 37.1 18.7-.7 25.8-12.1 48.5-12.1 22.7 0 29 12.1 48.9 11.7 20.2-.4 33-18.2 45.2-36 14.2-20.7 20-40.7 20.2-41.7-.4-.2-38.8-14.9-39-59.1zM259.5 110.6c10.2-12.4 17.1-29.6 15.2-46.8-14.7.6-32.5 9.8-43 22.2-9.5 10.9-17.8 28.4-15.6 45.2 16.4 1.3 33.2-8.4 43.4-20.6z"
+      />
+    </svg>
+  ),
   linkedin: (props: IconProps) => (
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" {...props}>
       <title>LinkedIn</title>
