@@ -87,8 +87,8 @@ export default function Page() {
                   Featured Talks
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I've had the privilege of speaking at various events, sharing knowledge
-                  about topics I'm passionate about.
+                  I&apos;ve had the privilege of speaking at various events
+about topics I&apos;m passionate about.
                 </p>
               </div>
             </div>
