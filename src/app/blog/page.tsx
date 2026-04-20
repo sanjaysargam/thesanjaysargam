@@ -30,6 +30,9 @@ export default async function BlogPage() {
           <BlurFade delay={BLUR_FADE_DELAY * 2 + id * 0.05} key={post.slug}>
             <Link
               className="flex flex-col space-y-1 mb-4"
+              target="_blank"
+  rel="noopener noreferrer"
+
               href={`/blog/${post.slug}`}
             >
               <div className="w-full flex flex-col">

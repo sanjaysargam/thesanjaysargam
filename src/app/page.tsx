@@ -245,6 +245,9 @@ about topics I&apos;m passionate about.
                 Want to chat? Just shoot me a dm{" "}
                 <Link
                   href={DATA.contact.social.X.url}
+                  target="_blank"
+  rel="noopener noreferrer"
+
                   className="text-blue-500 hover:underline"
                 >
                   with a direct question on twitter
