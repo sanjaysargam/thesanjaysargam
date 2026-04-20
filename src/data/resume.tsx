@@ -303,4 +303,69 @@ A simple, reliable ecosystem for faster and accessible healthcare.`,
       links: [],
     },
   ],
+  talks: [
+  {
+    title: "Getting Started with Open Source",
+    description: "Delivered a session on open source contribution fundamentals, helping students understand how to begin their journey, choose projects, and actively participate in developer communities.",
+    date: "2025",
+    event: "Vidyalankar Institute of Technology",
+    location: "Mumbai",
+    thumbnail: "",
+    media: [
+      {
+        type: "linkedin",
+        url: "https://www.linkedin.com/posts/sanjaysargam_i-had-the-opportunity-to-deliver-a-session-activity-7364909148376825857-Op-D",
+        label: "LinkedIn Post",
+        icon: <Icons.linkedin className="h-4 w-4" />
+      }
+    ],
+    tags: ["Open Source", "Community", "Beginner Friendly"]
+  },
+  {
+    title: "Open Source & GSoC Guidance Session",
+    description: "Conducted a technical talk on open source and Google Summer of Code (GSoC), covering roadmap, proposal strategies, and real-world contribution insights to help students get selected.",
+    date: "2025",
+    event: "VESIT Tinkers CodeCell",
+    location: "Mumbai",
+    thumbnail: "",
+    media: [
+      {
+        type: "youtube",
+        url: "https://youtu.be/YSd0pHeE5Ps",
+        label: "YouTube",
+        icon: <Icons.youtube className="h-4 w-4" />
+      },
+      {
+        type: "linkedin",
+        url: "https://www.linkedin.com/posts/sanjaysargam_opensource-gsoc-techtalk-activity-7385893437931245568-tQTI",
+        label: "LinkedIn Post",
+        icon: <Icons.linkedin className="h-4 w-4" />
+      },
+      {
+        type: "linkedin",
+        url: "https://www.linkedin.com/posts/vesit-tinkers-codecell-computer-department_gsoc-opensource-codecelltinkerer-ugcPost-7387141940271730688-kGrs",
+        label: "Event Post",
+        icon: <Icons.linkedin className="h-4 w-4" />
+      }
+    ],
+    tags: ["Open Source", "GSoC", "Mentorship"]
+  },
+  {
+    title: "GSoC & Open Source Journey",
+    description: "Shared personal experience and insights from Google Summer of Code, including preparation strategy, contribution tips, and how to stand out in open source programs.",
+    date: "2025",
+    event: "Vidyalankar Institute of Technology",
+    location: "Mumbai",
+    thumbnail: "",
+    media: [
+      {
+        type: "linkedin",
+        url: "https://www.linkedin.com/posts/sanjaysargam_spoke-at-vidyalankar-institute-of-technology-activity-7425776953020026880-dXM-",
+        label: "LinkedIn Post",
+        icon: <Icons.linkedin className="h-4 w-4" />
+      }
+    ],
+    tags: ["GSoC", "Open Source", "Experience Sharing"]
+  }
+],
 } as const;
