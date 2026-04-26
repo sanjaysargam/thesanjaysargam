@@ -235,7 +235,7 @@ I focus on building scalable apps, improving user experience, and writing clean,
           icon: <Icons.playstore className="size-3" />,
         },
       ],
-      image: "https://chatgpt.com/backend-api/estuary/content?id=file_00000000e6207206bb72f011dff2f728&ts=493670&p=fs&cid=1&sig=b1f4ccaee3b1eaecd711a807e4934336e4c71d8ebc044c9797d14342b8db2e40&v=0",
+      image: "https://i.ibb.co/VpNPbSDn/574bb61f-38c9-44b1-b249-be1dc085a574.png",
       video: "",
     },
     {

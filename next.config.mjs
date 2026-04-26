@@ -5,6 +5,7 @@ const nextConfig = {
     domains: [
       "play-lh.googleusercontent.com",
       "media.licdn.com",
+      "i.ibb.co"
     ],
   },
 };
