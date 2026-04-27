@@ -48,8 +48,7 @@ export default function Navbar() {
                   <Link
                     href={social.url}
                       target="_blank"
-  rel="noopener noreferrer"
-
+                      rel="noopener noreferrer"
                     className={cn(
                       buttonVariants({ variant: "ghost", size: "icon" }),
                       "size-12"

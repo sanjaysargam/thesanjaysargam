@@ -32,6 +32,7 @@ I focus on building scalable apps, improving user experience, and writing clean,
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    { href: "/resume.pdf", icon: Icons.resume, label: "Resume" },
   ],
   contact: {
     email: "sargamsanjaykumar@gmail.com",
