@@ -311,7 +311,7 @@ A simple, reliable ecosystem for faster and accessible healthcare.`,
     date: "2025",
     event: "Vidyalankar Institute of Technology",
     location: "Mumbai",
-    thumbnail: "https://ibb.co/1tSNpc4d",
+    thumbnail: "https://i.ibb.co/Q35Vq0xC/image.png",
     media: [
       {
         type: "linkedin",
@@ -328,7 +328,7 @@ A simple, reliable ecosystem for faster and accessible healthcare.`,
     date: "2025",
     event: "VESIT Tinkers CodeCell",
     location: "Mumbai",
-    thumbnail: "https://ibb.co/VYkWCGBK",
+    thumbnail: "https://i.ibb.co/HT9DPygJ/image.png",
     media: [
       {
         type: "youtube",
@@ -357,7 +357,7 @@ A simple, reliable ecosystem for faster and accessible healthcare.`,
     date: "2025",
     event: "Vidyalankar Institute of Technology",
     location: "Mumbai",
-    thumbnail: "https://ibb.co/B2xLrpxK",
+    thumbnail: "https://i.ibb.co/pj82R78r/image.png",
     media: [
       {
         type: "linkedin",
