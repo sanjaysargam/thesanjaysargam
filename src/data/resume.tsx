@@ -311,7 +311,7 @@ A simple, reliable ecosystem for faster and accessible healthcare.`,
     date: "2025",
     event: "Vidyalankar Institute of Technology",
     location: "Mumbai",
-    thumbnail: "https://media.licdn.com/dms/image/v2/D4D22AQErKMpKYH3k7Q/feedshare-shrink_2048_1536/B4DZjVpzGGGkA0-/0/1755931166719?e=1778112000&v=beta&t=TDsoRHcR63gvAHvIl7TBsbbZyGi3eeYpsU758PMaeqw",
+    thumbnail: "https://ibb.co/1tSNpc4d",
     media: [
       {
         type: "linkedin",
@@ -328,7 +328,7 @@ A simple, reliable ecosystem for faster and accessible healthcare.`,
     date: "2025",
     event: "VESIT Tinkers CodeCell",
     location: "Mumbai",
-    thumbnail: "https://media.licdn.com/dms/image/v2/D4D22AQH6rx1BPRhbkw/feedshare-shrink_2048_1536/B4DZn_24mFHYAw-/0/1760934217803?e=1778112000&v=beta&t=Y0gmDZLZbmvh-azkjMovknMDq5o4QRdktZXDc4FWjKg",
+    thumbnail: "https://ibb.co/VYkWCGBK",
     media: [
       {
         type: "youtube",
@@ -357,7 +357,7 @@ A simple, reliable ecosystem for faster and accessible healthcare.`,
     date: "2025",
     event: "Vidyalankar Institute of Technology",
     location: "Mumbai",
-    thumbnail: "https://media.licdn.com/dms/image/v2/D4D22AQF3zHMIppY78A/feedshare-shrink_2048_1536/B4DZw2oyZ3G4Ak-/0/1770443188607?e=1778112000&v=beta&t=UrtfKhJ7rzNMGsRghpSaWhLyr1NrlJWZSmW1odJ36aU",
+    thumbnail: "https://ibb.co/B2xLrpxK",
     media: [
       {
         type: "linkedin",
